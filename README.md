@@ -12,4 +12,4 @@ Aryeh Kobrinsky [GitHub](https://github.com/akobrinsky).
 Stanley Huang  [GitHub](https://github.com/stanpython).    
 Nick Kruckenberg [GitHub](https://github.com/kruckenberg).   
 Kadir Gundogdu [GitHub](https://github.com/kadirgund).  
-Minchan Jun [GitHub](https://github.com/MinchanJun).  
+Minchan Jun [GitHub](https://github.com/MinchanJun).   
